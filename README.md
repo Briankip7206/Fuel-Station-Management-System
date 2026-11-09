@@ -1,2 +1,2 @@
 # Fuel-Station-Management-System
-Web-based fuel station management system for Kenya: shift and pump meter reconciliation, tank stock and dip tracking, credit customer invoicing, supplier payables and role-based access. 
+A web-based Fuel Station Management System for service stations. It tracks shifts and pump meter readings, reconciles cash against what the pumps say was sold. It monitors tank stock, handles credit customers with invoices, tracks supplier deliveries and payables. It is built for Kenyan stations but the core logic works anywhere.
